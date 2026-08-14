@@ -4,7 +4,7 @@ A starter program for writing Javasgames
 
 ## Usage
 
-1. include gamelet.js in the html document of thennn
+1. include gamelet.js in the html document of thennn vh
 
 '''html
 
